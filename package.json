@@ -1,0 +1,23 @@
+{
+  "name": "learn-lerna",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/showonne/learn-lerna.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/showonne/learn-lerna/issues"
+  },
+  "homepage": "https://github.com/showonne/learn-lerna#readme",
+  "devDependencies": {
+    "lerna": "^2.9.0"
+  }
+}
